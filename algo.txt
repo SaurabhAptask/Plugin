@@ -1,0 +1,13 @@
+Algorithum
+
+
+1.onclick --> scrap data --Not yet
+2.onclick --> run command node jobdiva.js -- Not yet
+3.close headless browser -- can
+4.saved output in JSON format --- can
+5.load data dynamically  --- Not yet
+6.display JSON data on chrome extension -- done
+
+
+
+
